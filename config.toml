@@ -1,0 +1,120 @@
+baseURL = ""
+title = "SKNDLST"
+lang= "ru-RU"
+paginate = 3
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = ""
+pygmentsUseClasses = true
+defaultContentLanguage = 'ru'
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "ExampleSite"
+description = "Блог Миши Скандалиста"
+keywords = [ "blog", "skndlst", "travel","блог", "скндлст", "путешествия", ]
+author = "skndlst"
+images = [ "yclgaVppGh8.jpg" ]
+DateFormat = "02-01-2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+ShowFullTextinRSS= true
+UseHugoToc = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
+  disableFingerprinting= true  
+        
+
+
+  [params.label]
+  text = "SKNDLST"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+
+  [params.homeInfoParams]
+  Title = "Здарова, девки и мужики!👋"
+  Content = "Меня зовут Миша. Здесь вы найдете дневники из путешествий, философское нытье, шутки как у пятиклассника, постиронию, постпанк и постпиво (крафт)."
+
+
+  [[params.socialIcons]]
+  name = "Instagram"
+  url = "https://www.instagram.com/mskndlst/"
+
+  [[params.socialIcons]]
+  name = "Telegram"
+  url = "https://t.me/+z8EH2y0znjE5ODhi"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = false
+  hiddenInList = true
+  hiddenInSingle = true
+
+
+
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "Истории"
+name = "Истории"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "Теги"
+name = "Теги"
+url = "/tags/"
+weight = 20
+
+#[[menu.main]]
+#identifier = "example"
+#name = "example.org"
+#url = "https://example.org"
+#weight = 30
+
+[markup.highlight]
+noClasses = false
+
+

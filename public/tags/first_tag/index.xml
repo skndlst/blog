@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first_tag on SKNDLST</title>
+    <link>http://localhost:1313/tags/first_tag/</link>
+    <description>Recent content in first_tag on SKNDLST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 09 Mar 2023 13:36:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/first_tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Привет! Мир!12r1</title>
+      <link>http://localhost:1313/posts/post_1/</link>
+      <pubDate>Thu, 09 Mar 2023 13:36:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/post_1/</guid>
+      <description>huita</description>
+    </item>
+    
+  </channel>
+</rss>
