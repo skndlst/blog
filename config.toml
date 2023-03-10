@@ -16,7 +16,7 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
+title = "SKNDLST"
 description = "Блог Миши Скандалиста"
 keywords = [ "blog", "skndlst", "travel","блог", "скндлст", "путешествия", ]
 author = "skndlst"
