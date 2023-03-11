@@ -1,6 +1,6 @@
 baseURL: ""
 title: SKNDLST | Блог
-paginate: 5
+paginate: 3
 theme: PaperMod
 canonifyURLs: false
 enableRobotsTXT: true
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: UA-260032651-1
 
 defaultContentLanguage: ru
 languageCode: ru-RU
@@ -57,8 +57,8 @@ params:
 
   label:
     text: "SKNDLST"
-    icon: apple-touch-icon.png
-    iconHeight: 35
+    icon: d-r-i.png
+    iconHeight: 70
 
   # profile-mode
   profileMode:
@@ -114,8 +114,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
+    - identifier: Категории
+      name: Категории
       url: /categories/
       weight: 10
     - identifier: tags
