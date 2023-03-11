@@ -77,8 +77,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Здарова, девки и мужики! \U0001F44B"
+    Content: Придумать описание позже
 
   socialIcons:
     - name: instagram
