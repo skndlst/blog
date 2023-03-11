@@ -41,34 +41,35 @@ hideSummary = false
 showtoc = false
 tocopen = false
 
-  [params.assets]
-  favicon = "favicon.ico"
-  favicon16x16 = "favicon-16x16.png"
-  favicon32x32 = "favicon-32x32.png"
-  apple_touch_icon = "apple-touch-icon.png"
-  safari_pinned_tab = "apple-touch-icon.png"
-  disableFingerprinting= true  
+[params.assets]
+favicon = "favicon.ico"
+favicon16x16 = "favicon-16x16.png"
+favicon32x32 = "favicon-32x32.png"
+apple_touch_icon = "apple-touch-icon.png"
+safari_pinned_tab = "apple-touch-icon.png"
+disableFingerprinting= false
+  
         
 
 
-  [params.label]
-  text = "SKNDLST"
-  icon = "/apple-touch-icon.png"
-  iconHeight = 35
+[params.label]
+text = "SKNDLST"
+icon = "/apple-touch-icon.png"
+iconHeight = 35
 
 
-  [params.homeInfoParams]
-  Title = "Здарова, девки и мужики!👋"
-  Content = "Меня зовут Миша. Здесь вы найдете дневники из путешествий, философское нытье, шутки как у пятиклассника, постиронию, постпанк и постпиво (крафт). ТЕСТОВАЯ ХУЙНЯ"
+[params.homeInfoParams]
+Title = "Здарова, девки и мужики!👋"
+Content = "Меня зовут Миша. Здесь вы найдете дневники из путешествий, философское нытье, шутки как у пятиклассника, постиронию, постпанк и постпиво (крафт). ТЕСТОВАЯ ХУЙНЯ"
 
 
-  [[params.socialIcons]]
-  name = "Instagram"
-  url = "https://www.instagram.com/mskndlst/"
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://www.instagram.com/mskndlst/"
 
-  [[params.socialIcons]]
-  name = "Telegram"
-  url = "https://t.me/+z8EH2y0znjE5ODhi"
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/+z8EH2y0znjE5ODhi"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -79,22 +80,22 @@ SiteVerificationTag = "XYZabc"
 [params.analytics.yandex]
 SiteVerificationTag = "XYZabc"
 
-  [params.cover]
-  hidden = false
-  hiddenInList = true
-  hiddenInSingle = true
+[params.cover]
+hidden = false
+hiddenInList = true
+hiddenInSingle = true
 
 
 
 
-  [params.fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1_000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = [ "title", "permalink", "summary", "content" ]
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
 identifier = "Истории"
