@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "/"
 title: SKNDLST | Блог
 paginate: 5
 theme: PaperMod
