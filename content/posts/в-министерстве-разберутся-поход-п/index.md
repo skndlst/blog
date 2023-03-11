@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Про то, как я сходил в горы и прожил несколько жизней."
-canonicalURL: "https://canonical.url/to/page"
+
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
