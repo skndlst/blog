@@ -20,7 +20,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: SKNDLST
+  title: "SKNDLST"
   description: "Блог Миши Скандалиста"
   keywords: [skndlst, скндлст, путешествия, заметки, тревел, travel, блог]
   author: Me

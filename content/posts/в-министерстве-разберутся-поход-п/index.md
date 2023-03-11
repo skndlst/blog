@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 
 cover:
-    image: posts\в-министерстве-разберутся-поход-п\images\img_3002.jpg  # image path/url
+    image: posts/в-министерстве-разберутся-поход-п/images/img_3002.jpg  # image path/url
     alt: "Вид гор" # alt text
     caption: "По пути на Фишт" # display caption under cover
     relative: false # when using page bundles set this to true
