@@ -58,7 +58,7 @@ params:
   label:
     text: "SKNDLST"
     icon: d-r-i.png
-    iconHeight: 70
+    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -89,7 +89,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "UA-260032651-1"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
