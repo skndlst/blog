@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://skndlst.github.io/blog/"
 title: SKNDLST | Блог
 paginate: 5
 theme: PaperMod
