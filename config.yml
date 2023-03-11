@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-260032651-1
+googleAnalytics: G-VDHW86HXSN
 
 defaultContentLanguage: ru
 languageCode: ru-RU
@@ -89,7 +89,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "UA-260032651-1"
+      SiteVerificationTag: "G-VDHW86HXSN"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
