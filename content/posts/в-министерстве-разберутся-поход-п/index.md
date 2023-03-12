@@ -5,25 +5,8 @@ date: 2020-09-15T11:30:03+00:00
 # aliases: ["/first"]
 tags: ["Адыгея", "поход", "путешествие"]
 author: "skndlst"
-# author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
 description: "Про то, как я сходил в горы и прожил несколько жизней."
-
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-
 cover:
     image: posts/в-министерстве-разберутся-поход-п/images/img_3002.jpg  # image path/url
     alt: "В министерстве разберутся”. Мой поход по горам Адыгеи" # alt text
