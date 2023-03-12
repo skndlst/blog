@@ -26,11 +26,11 @@ cover:
 
 Истории от Толи. 
 
-[![Италия.Юг.](images/1_edomFHvL1JvLYdiFyEv3Hw.jpg)](https://skndlst.fun/posts/italy/italy1/)
+[![Италия.Юг.](images/1_edomFHvL1JvLYdiFyEv3Hw.jpg)](https://skndlst.fun/posts/italy/italy/)
 
-[![Пиза и Болонья](images/1_Sc7-MI3potrz6JrWfOXoHw.jpg)](https://skndlst.fun/posts/italy/italy2/)
+[![Пиза и Болонья](images/1_Sc7-MI3potrz6JrWfOXoHw.jpg)](https://skndlst.fun/posts/italy2/italy2/)
 
-[![Верона и Милан](images/1_t2V2PuiOEPlrEDNBPSaERw.jpg)](https://skndlst.fun/posts/italy/italy3/)
+[![Верона и Милан](images/1_t2V2PuiOEPlrEDNBPSaERw.jpg)](https://skndlst.fun/posts/italy3/italy3/)
 
 
 
