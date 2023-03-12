@@ -31,7 +31,7 @@ params:
   defaultTheme: auto # dark, light  disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -122,6 +122,10 @@ menu:
       name: Теги
       url: /tags/
       weight: 20
+    - identifier: donut
+      name: Поддержать
+      url: https://www.tinkoff.ru/cf/AuFj393CCE4
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
