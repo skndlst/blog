@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "skndlst.fun"
 title: SKNDLST | Блог
 paginate: 3
 theme: PaperMod
@@ -24,11 +24,9 @@ params:
   description: "Блог Миши Скандалиста"
   keywords: [skndlst, скндлст, путешествия, заметки, тревел, travel, блог]
   author: skndlst
-  # author: ["Me", "You"] # multiple authors
   images: ["yclgaVppGh8.jpg"]
   DateFormat: "02-01-2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  defaultTheme: auto # dark, light  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -78,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Здарова, девки и мужики! \U0001F44B"
-    Content: Придумать описание позже
+    Content: Всем привет! Меня зовут Миша. Здесь я публикую дневники своих путешествий, просто мысли о житухе и всякое разное, что еще взбредет в голову. 
 
   socialIcons:
     - name: instagram
@@ -114,12 +112,12 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Категории
+    - identifier: сategories
       name: Категории
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Теги
       url: /tags/
       weight: 20
 
