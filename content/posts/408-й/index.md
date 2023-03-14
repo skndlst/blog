@@ -14,7 +14,7 @@ cover:
     alt: "408-й." # alt text
     caption: "408-й." # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 Поздним вечером меня разбудил телефонный звонок. Это был мой старый друг - Коля.

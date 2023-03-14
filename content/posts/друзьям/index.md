@@ -1,11 +1,22 @@
 ---
 title: "Друзьям."
 date: "2016-11-16"
-categories: 
-  - "без-рубрики"
+tags: 
+  - "панк-рок"
+  - "друзьям"
+categories: "житуха"
+author: "skndlst"
+draft: false
+description: "Мне исполнилось 25 лет."
+cover:
+    image: posts/друзьям/images/barfouu6iok.jpg # image path/url
+    alt: "Друзьям." # alt text
+    caption: "Друзьям." # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
 
-"Столько лет живешь, а толку!?" Поспишь Потом
+> *"Столько лет живешь, а толку!?" Поспишь Потом*
 
 Вот и мне исполнилось 25 лет и как-то хочется подвести какие-то итоги по прожитии трети жизни и написать сентиментальную телегу, которую я бы наверное, лучше бы рассказал на чьей-нибудь кухне. Я заметил такую тенденцию - чем ты старше, тем быстрее бежит время. Может быть это связано с тем, что рабочая рутина начинает преобладать над хорошими и яркими событиями, которыми были насыщены годы до 20 лет. И теперь из месяца одинаковых рабочих дней ты можешь припомнить лишь пару-тройку моментов. И вот, с моментов, которые я помню из раннего детства до момента, когда я пишу это всё прошло уже два десятка лет и сейчас кажется, что это всё было непростительно быстро.
 
@@ -21,4 +32,20 @@ categories:
 
 Да вроде и всё. Друзья - это единственное, чем я горжусь из того, что я нажил за 25 лет жизни. Всё остальное - лишь обязательные этапы жизненного плана в стиле "родись-учись-работай-умирай". Спасибо вам.
 
-\[gallery ids="188,184,185,186,187,189,190,197,676" type="rectangular"\]
+![99oasa4gyqy](images/99oasa4gyqy.jpg)
+
+![barfouu6iok](images/barfouu6iok.jpg)
+
+![c6cycbws2w](images/c6cycbws2w.jpg)
+
+![dumu1jezbes](images/dumu1jezbes.jpg)
+
+![kpkactu9l8](images/kpkactu9l8.jpg)
+
+![t4xckwpqqxo](images/t4xckwpqqxo.jpg)
+
+![w_935a3e6c](images/w_935a3e6c.jpg)
+
+![xch3kdjlldo](images/xch3kdjlldo.jpg)
+
+![9qfm5v6gek8](images/9qfm5v6gek8.jpg)

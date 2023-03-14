@@ -25,4 +25,12 @@ categories:
 
 Покойся с миром.
 
-\[gallery ids="56,57,58,59,60" type="slideshow"\]
+![4xitgqjgpx8](images/4xitgqjgpx8.jpg)
+
+![7zk9a70z-po](images/7zk9a70z-po.jpg)
+
+![dx8bohg1tte](images/dx8bohg1tte.jpg)
+
+![fxbvy81j5nc_1](images/fxbvy81j5nc_1.jpg)
+
+![z_53438db1_1](images/z_53438db1_1.jpg)

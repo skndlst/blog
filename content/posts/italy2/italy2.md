@@ -13,7 +13,7 @@ cover:
     alt: "Парки, сады, перекрёстки и городские огни: Пиза и Болонья" # alt text
     caption: "Парки, сады, перекрёстки и городские огни: Как нас встретила Италия" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 ## 

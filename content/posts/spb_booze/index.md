@@ -13,7 +13,7 @@ cover:
     alt: "Где выпить в Санкт-Петербурге" # alt text
     caption: "Где выпить в Санкт-Петербурге" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 Этой осенью я оказался в Санкт-Петербурге. Хотелось заценить местные питейные заведения и вот, как результат, появилась эта статья. Не претендую на звание барного критика. Всё, что тут есть - исключительно личное мнение, написанное с похмельными страхами и тревогой.
