@@ -23,7 +23,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SKNDLST
-  description: "Блог Миши Скандалиста"
+  description: "Возможно, всё это было не со мной."
   keywords: [skndlst, скндлст, путешествия, заметки, тревел, travel, блог]
   author: skndlst
   images: ["yclgaVppGh8.jpg"]
@@ -45,6 +45,13 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+
+
+
+
+
+
 
   assets:
     # disableHLJS: true # to disable highlight.js
