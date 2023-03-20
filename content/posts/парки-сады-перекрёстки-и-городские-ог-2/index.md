@@ -1,12 +1,12 @@
-\---
+---
  title: "Парки, сады, перекрёстки и городские огни: Амстердам"
  date: "2017-09-22"
  tags: 
-  \- "Амстердам"
-  \- "евротур"
-  \- "путешествия"
-  \- "Европа"
-  \- "бэкпэкер"
+  - "Амстердам"
+  - "евротур"
+  - "путешествия"
+  - "Европа"
+  - "бэкпэкер"
  categories: "путешествия"
  author: "skndlst"
  draft: false
@@ -17,7 +17,7 @@
    caption: "Парки, сады, перекрёстки и городские огни: Амстердам" # display caption under cover
    relative: false # when using page bundles set this to true
    hidden: false # only hide on current single page
- \---
+---
 
  **23 июля**
 
