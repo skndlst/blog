@@ -6,7 +6,7 @@ weight: 1
 tags: ["Бали", "остров", "путешествие"]
 author: "skndlst"
 draft: false
-description: "(клип) Видеоклип про то, как я с друзьями прожил год на тропическом острове"
+description: "Видеоклип про то, как я с друзьями прожил год на тропическом острове"
 cover:
     image: posts/bali-clip/images/label_new.jpg  # image path/url
     alt: "(клип) Цветы на рубашке: 10000 выпитых бинтангов" # alt text
