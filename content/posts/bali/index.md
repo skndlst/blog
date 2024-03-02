@@ -5,7 +5,7 @@ weight: 1
 # aliases: ["/first"]
 tags: ["Бали", "остров", "путешествие"]
 author: "skndlst"
-draft: false
+draft: true
 description: "Зачитываю вам записи из путевого дневника об жизни на острове Бали"
 cover:
     image: posts/bali/images/label.jpg  # image path/url
@@ -128,8 +128,6 @@ cover:
 ![1-41](images/1-41.jpg)
 
 ![1-42](images/1-42.jpg)
-
-![1-43](images/1-43.jpg)
 
 ![1-45](images/1-45.jpg)
 
