@@ -1,6 +1,7 @@
 baseURL: "https://skndlst.fun/"
 title: SKNDLST | Блог
-paginate: 3
+pagination:
+  pagerSize: 10
 theme: PaperMod
 canonifyURLs: false
 enableRobotsTXT: true
@@ -10,13 +11,18 @@ buildExpired: false
 
 disqusShortname: skndlst-fun
 
-googleAnalytics: G-VDHW86HXSN
+services:
+  disqus:
+    shortname: skndlst-fun
+  googleAnalytics:
+    id: G-VDHW86HXSN
 
 defaultContentLanguage: ru
 languageCode: ru-RU
 
 sitemap:
   changefreq: monthly
+  disable: false
   filename: sitemap.xml
   priority: 0.5
 
@@ -49,13 +55,6 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-
-
-
-
-
-
-
 
   assets:
     # disableHLJS: true # to disable highlight.js
