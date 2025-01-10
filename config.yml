@@ -15,7 +15,7 @@ services:
   disqus:
     shortname: skndlst-fun
   googleAnalytics:
-    id: G-7MY052SRXD
+    id: G-F7TKN96BBB
 
 defaultContentLanguage: ru
 languageCode: ru-RU
