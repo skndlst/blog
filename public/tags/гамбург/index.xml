@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Гамбург on SKNDLST | Блог</title>
-    <link>http://localhost:1313/tags/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</link>
+    <link>https://skndlst.fun/tags/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</link>
     <description>Recent content in Гамбург on SKNDLST | Блог</description>
     <image>
       <title>SKNDLST | Блог</title>
-      <url>http://localhost:1313/yclgaVppGh8.jpg</url>
-      <link>http://localhost:1313/yclgaVppGh8.jpg</link>
+      <url>https://skndlst.fun/yclgaVppGh8.jpg</url>
+      <link>https://skndlst.fun/yclgaVppGh8.jpg</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://skndlst.fun/tags/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Парки, сады, перекрёстки и городские огни: Гамбург</title>
-      <link>http://localhost:1313/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</link>
+      <link>https://skndlst.fun/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</guid>
+      <guid>https://skndlst.fun/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</guid>
       <description>Про то, как я потусовался с президентом мира и сходил на панк-концерт.</description>
     </item>
   </channel>

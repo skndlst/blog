@@ -8,12 +8,12 @@ author: "skndlst"
 draft: false
 description: "Гулял и фоткал всякое в декабре и январе."
 images:
-  - images/105.jpg
+  - 105.JPG
 cover:
-    image: images/105.jpg  # image path/url
+    image: images/105.JPG  # image path/url
     alt: "35mm: Декабрь-Январь" # alt text
     caption: "35mm: Декабрь-Январь" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
 Привет, друзья. У меня новое развлечение — камера Lomography Fisheye No.2. Здесь немного новогодней суеты и несколько фоток с поездки в Стамбул. 
