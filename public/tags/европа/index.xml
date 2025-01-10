@@ -9,61 +9,47 @@
       <url>http://localhost:1313/yclgaVppGh8.jpg</url>
       <link>http://localhost:1313/yclgaVppGh8.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Парки, сады, перекрестки и городские огни.</title>
       <link>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/</guid>
       <description>&lt;p&gt;Наконец-то, между приступами лени я нашёл время для того, чтоб привести в порядок содержание этой истории. Так что, если вы вдруг пропустили:&lt;/p&gt;
 &lt;p&gt;Мои истории (в хронологическом порядке):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/2017-07-19-03-49-46-1.jpg&#34; alt=&#34;Берлин&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/2017-08-27-10-16-23-1.jpg&#34; alt=&#34;Гамбург&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-2/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/2017-07-26-05-03-54-1.jpg&#34; alt=&#34;Амстердам&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-3/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/2017-12-04-06-03-59-1.jpg&#34; alt=&#34;Франция&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3/&#34;&gt;&lt;img alt=&#34;Берлин&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/2017-07-19-03-49-46-1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/&#34;&gt;&lt;img alt=&#34;Гамбург&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/2017-08-27-10-16-23-1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-2/&#34;&gt;&lt;img alt=&#34;Амстердам&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/2017-07-26-05-03-54-1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-3/&#34;&gt;&lt;img alt=&#34;Франция&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/2017-12-04-06-03-59-1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Истории от Толи.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy/italy/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1_edomFHvL1JvLYdiFyEv3Hw.jpg&#34; alt=&#34;Италия.Юг.&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy2/italy2/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1_Sc7-MI3potrz6JrWfOXoHw.jpg&#34; alt=&#34;Пиза и Болонья&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy3/italy3/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1_t2V2PuiOEPlrEDNBPSaERw.jpg&#34; alt=&#34;Верона и Милан&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy/italy/&#34;&gt;&lt;img alt=&#34;Италия.Юг.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/1_edomFHvL1JvLYdiFyEv3Hw.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy2/italy2/&#34;&gt;&lt;img alt=&#34;Пиза и Болонья&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/1_Sc7-MI3potrz6JrWfOXoHw.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skndlst.fun/posts/italy3/italy3/&#34;&gt;&lt;img alt=&#34;Верона и Милан&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE/images/1_t2V2PuiOEPlrEDNBPSaERw.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Такие дела. Блог немного простаивает ввиду того, что мне пока не о чем вам рассказать. Но скоро лето, а значит калейдоскоп историй закрутится с новой силой. А пока что вы можете читать меня в &lt;a href=&#34;https://t.me/skndlst&#34;&gt;Telegram.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Парки, сады, перекрёстки и городские огни: Амстердам</title>
       <link>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-2/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3-2/</guid>
       <description>Про то, как я оказался в Диснейленде.</description>
     </item>
-    
     <item>
       <title>Парки, сады, перекрёстки и городские огни: Гамбург</title>
       <link>http://localhost:1313/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3/</guid>
       <description>Про то, как я потусовался с президентом мира и сходил на панк-концерт.</description>
     </item>
-    
     <item>
       <title>Парки, сады, перекрёстки и городские огни: моё путешествие в Европу</title>
       <link>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/%D0%BF%D0%B0%D1%80%D0%BA%D0%B8-%D1%81%D0%B0%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D1%91%D1%81%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%B3/</guid>
       <description>Про то, как я исполнил свою мечту и проехал по Европе с рюкзаком за спиной.</description>
     </item>
-    
   </channel>
 </rss>

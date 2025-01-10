@@ -9,17 +9,16 @@
       <url>http://localhost:1313/yclgaVppGh8.jpg</url>
       <link>http://localhost:1313/yclgaVppGh8.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%BA%D0%BB%D1%83%D0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%BA%D0%BB%D1%83%D0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Дом&#34;</title>
       <link>http://localhost:1313/posts/%D0%B4%D0%BE%D0%BC/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/%D0%B4%D0%BE%D0%BC/</guid>
       <description>Про то, как мы построили и разрушили &amp;#34;Дом&amp;#34;</description>
     </item>
-    
   </channel>
 </rss>
