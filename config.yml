@@ -15,7 +15,7 @@ services:
   disqus:
     shortname: skndlst-fun
   googleAnalytics:
-    id: G-VDHW86HXSN
+    id: G-7MY052SRXD
 
 defaultContentLanguage: ru
 languageCode: ru-RU
@@ -96,21 +96,10 @@ params:
     - name: telegram
       url: "https://t.me/+z8EH2y0znjE5ODhi"
 
-
-  analytics:
-    google:
-      SiteVerificationTag: "G-VDHW86HXSN"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-
 
   # for search
   # https://fusejs.io/api/options.html
