@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Житуха on SKNDLST | Блог</title>
-    <link>https://skndlst.fun/categories/%D0%B6%D0%B8%D1%82%D1%83%D1%85%D0%B0/</link>
+    <link>http://localhost:1313/categories/%D0%B6%D0%B8%D1%82%D1%83%D1%85%D0%B0/</link>
     <description>Recent content in Житуха on SKNDLST | Блог</description>
     <image>
       <title>SKNDLST | Блог</title>
-      <url>https://skndlst.fun/yclgaVppGh8.jpg</url>
-      <link>https://skndlst.fun/yclgaVppGh8.jpg</link>
+      <url>http://localhost:1313/yclgaVppGh8.jpg</url>
+      <link>http://localhost:1313/yclgaVppGh8.jpg</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://skndlst.fun/categories/%D0%B6%D0%B8%D1%82%D1%83%D1%85%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%D0%B6%D0%B8%D1%82%D1%83%D1%85%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Дом&#34;</title>
-      <link>https://skndlst.fun/posts/%D0%B4%D0%BE%D0%BC/</link>
+      <link>http://localhost:1313/posts/%D0%B4%D0%BE%D0%BC/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://skndlst.fun/posts/%D0%B4%D0%BE%D0%BC/</guid>
+      <guid>http://localhost:1313/posts/%D0%B4%D0%BE%D0%BC/</guid>
       <description>Про то, как мы построили и разрушили &amp;#34;Дом&amp;#34;</description>
     </item>
     <item>
       <title>Друзьям.</title>
-      <link>https://skndlst.fun/posts/%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC/</link>
+      <link>http://localhost:1313/posts/%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://skndlst.fun/posts/%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC/</guid>
+      <guid>http://localhost:1313/posts/%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC/</guid>
       <description>Мне исполнилось 25 лет.</description>
     </item>
   </channel>

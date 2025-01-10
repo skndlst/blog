@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Analog on SKNDLST | Блог</title>
-    <link>https://skndlst.fun/tags/analog/</link>
+    <link>http://localhost:1313/tags/analog/</link>
     <description>Recent content in Analog on SKNDLST | Блог</description>
     <image>
       <title>SKNDLST | Блог</title>
-      <url>https://skndlst.fun/yclgaVppGh8.jpg</url>
-      <link>https://skndlst.fun/yclgaVppGh8.jpg</link>
+      <url>http://localhost:1313/yclgaVppGh8.jpg</url>
+      <link>http://localhost:1313/yclgaVppGh8.jpg</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://skndlst.fun/tags/analog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/analog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>35mm: декабрь-январь</title>
-      <link>https://skndlst.fun/posts/35mm-december/</link>
+      <link>http://localhost:1313/posts/35mm-december/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://skndlst.fun/posts/35mm-december/</guid>
+      <guid>http://localhost:1313/posts/35mm-december/</guid>
       <description>Гулял и фоткал всякое в декабре и январе.</description>
     </item>
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Остров on SKNDLST | Блог</title>
-    <link>https://skndlst.fun/tags/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/</link>
+    <link>http://localhost:1313/tags/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/</link>
     <description>Recent content in Остров on SKNDLST | Блог</description>
     <image>
       <title>SKNDLST | Блог</title>
-      <url>https://skndlst.fun/yclgaVppGh8.jpg</url>
-      <link>https://skndlst.fun/yclgaVppGh8.jpg</link>
+      <url>http://localhost:1313/yclgaVppGh8.jpg</url>
+      <link>http://localhost:1313/yclgaVppGh8.jpg</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://skndlst.fun/tags/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Цветы на рубашке: как я прожил год на краю света</title>
-      <link>https://skndlst.fun/posts/bali/</link>
+      <link>http://localhost:1313/posts/bali/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://skndlst.fun/posts/bali/</guid>
+      <guid>http://localhost:1313/posts/bali/</guid>
       <description>Зачитываю вам записи из путевого дневника об жизни на острове Бали</description>
     </item>
     <item>
       <title>Цветы на рубашке: 10000 выпитых бинтангов (клип)</title>
-      <link>https://skndlst.fun/posts/bali-clip/</link>
+      <link>http://localhost:1313/posts/bali-clip/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://skndlst.fun/posts/bali-clip/</guid>
+      <guid>http://localhost:1313/posts/bali-clip/</guid>
       <description>Видеоклип про то, как я с друзьями прожил год на тропическом острове</description>
     </item>
   </channel>
