@@ -7,6 +7,8 @@ tags: ["35mm", "пленка", "film", "аналог", "analog", "lomography"]
 author: "skndlst"
 draft: false
 description: "Гулял и фоткал всякое в декабре и январе."
+images:
+  - images/105.jpg
 cover:
     image: images/105.jpg  # image path/url
     alt: "35mm: Декабрь-Январь" # alt text
