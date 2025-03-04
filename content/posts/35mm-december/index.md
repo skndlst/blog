@@ -1,7 +1,7 @@
 ---
 title: "35mm: декабрь-январь"
 date: 2025-01-09
-weight: 1
+#weight: 1
 # aliases: ["/first"]
 tags: ["35mm", "пленка", "film", "аналог", "analog", "lomography"]
 author: "skndlst"
