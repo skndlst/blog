@@ -8,9 +8,9 @@ author: "skndlst"
 draft: false
 description: "Аналоговые удовольствия февраля"
 images:
-  - 50.JPG
+  - 32.JPG
 cover:
-    image: images/50.JPG  # image path/url
+    image: images/32.JPG  # image path/url
     alt: "35mm: Февраль" # alt text
     caption: "35mm: Февраль" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -89,8 +89,6 @@ cover:
 ![36](images/36.JPG)
 
 ![37](images/37.JPG)
-
-![38](images/38.JPG)
 
 ![39](images/39.JPG)
 
