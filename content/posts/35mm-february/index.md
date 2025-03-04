@@ -6,7 +6,7 @@ date: 2025-03-02
 tags: ["35mm", "пленка", "film", "аналог", "analog", "lomography"]
 author: "skndlst"
 draft: false
-description: "Аналоговые удовольствия февраля"
+description: "Аналоговые удовольствия февраля."
 images:
   - 32.JPG
 cover:
