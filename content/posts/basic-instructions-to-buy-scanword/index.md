@@ -16,7 +16,7 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-Привет, друзья. В этом году получилось провести зимовку в Юго-Восточной Азии. Делюсь фотками.
+Привет, друзья. Все выходные лазали по говнам маршрута Верхний Уфалей - Миасс. Посмотрите, как это было.
 
 {{< youtube link = "https://www.youtube.com/embed/FFiQ9P_J8mk" >}}
 
